@@ -3,7 +3,7 @@ Web-site: [Complete Web-site](http://132.232.67.120)
 This is a my school's Problem Web-site.
 Accouts are my school register, personals don't register a new accout.
 Have a new accout in this web-site? I can help you register a new accout for you.
-Let's go to the watch a so easy code:
+Let's go to the watch a simaple code:
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
