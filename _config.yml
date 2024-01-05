@@ -20,7 +20,7 @@ header_pages:
 - github.md
 
 footer_icons:
-- username: aterenin/minima-reboot/
+- username: toprise/blogs
   url: https://github.com/toprise/blogs/
   icon: icon-github.svg
 
